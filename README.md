@@ -2,6 +2,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Tutorial
 I'm following this: https://codingthesmartway.com/the-mern-stack-tutorial-building-a-react-crud-application-from-start-to-finish-part-1/
+and database at: https://mlab.com/
 
 We are building a Todo List in the MEAN stack.
 
